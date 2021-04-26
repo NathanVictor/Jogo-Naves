@@ -1,3 +1,10 @@
 ## Construindo meu primeiro jogo de naves
 
-- Componentes:
+
+- Uso d o Notepad++
+
+- Uso jo Javascript
+
+- Css
+
+- HtML
