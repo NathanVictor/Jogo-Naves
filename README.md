@@ -1,4 +1,4 @@
-## Meu Primeiro Jogo De Naves ## 👨‍💻
+## Meu Primeiro Jogo De Naves 👨‍💻
 
 
 - Uso d o Notepad++
