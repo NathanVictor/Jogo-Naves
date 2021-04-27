@@ -1,4 +1,4 @@
-## Construindo meu primeiro jogo de naves ##
+## Meu Primeiro Jogo De Naves ##
 
 
 - Uso d o Notepad++
