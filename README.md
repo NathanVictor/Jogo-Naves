@@ -1,9 +1,9 @@
 ## Meu Primeiro Jogo De Naves 👨‍💻
 
 
-- Uso d o Notepad++
+- Uso do Notepad++
 
-- Uso jo Javascript
+- Uso o Javascript
 
 - Css
 
