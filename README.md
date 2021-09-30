@@ -3,7 +3,7 @@
 
 - Uso do Notepad++
 
-- Uso o Javascript
+- Uso do Javascript
 
 - Css
 
